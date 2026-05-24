@@ -1,0 +1,100 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+
+    {
+      "@type": "Person",
+      "@id": "https://sites.google.com/view/soumodip-atanu-roy/home#soumodiproy",
+      "name": "Soumodip Atanu Roy",
+      "url": "https://sites.google.com/view/soumodip-atanu-roy/home",
+      "jobTitle": "Founder & Ecosystem Architect",
+      "worksFor": {
+        "@id": "https://sites.google.com/view/sar-ventures/home#sarventures"
+      },
+      "affiliation": [
+        {
+          "@id": "https://sites.google.com/view/mul-biotech-farms/home#mulbiotech"
+        },
+        {
+          "@id": "https://sites.google.com/view/sequestra-bionix-foundation/home#sequestrabionix"
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/in/soumodiproy",
+        "https://x.com/soumodiproy18",
+        "https://youtube.com/@soumodiproyagriconsultant",
+        "https://github.com/sar-venture-ecosystems"
+      ]
+    },
+
+    {
+      "@type": "Organization",
+      "@id": "https://sites.google.com/view/sar-ventures/home#sarventures",
+      "name": "SAR Venture Ecosystems",
+      "url": "https://sites.google.com/view/sar-ventures/home",
+      "description": "Umbrella climate-agriculture systems ecosystem integrating regenerative agriculture, MRV systems, GIS intelligence, agroforestry, carbon systems, environmental monitoring, and rural sustainability infrastructure.",
+      "founder": {
+        "@id": "https://sites.google.com/view/soumodip-atanu-roy/home#soumodiproy"
+      },
+      "subOrganization": [
+        {
+          "@id": "https://sites.google.com/view/mul-biotech-farms/home#mulbiotech"
+        },
+        {
+          "@id": "https://sites.google.com/view/sequestra-bionix-foundation/home#sequestrabionix"
+        }
+      ],
+      "sameAs": [
+        "https://github.com/sar-venture-ecosystems",
+        "https://www.linkedin.com/in/soumodiproy",
+        "https://medium.com/@mulbiotechnology"
+      ]
+    },
+
+    {
+      "@type": "Corporation",
+      "@id": "https://sites.google.com/view/mul-biotech-farms/home#mulbiotech",
+      "name": "Mul Biotech Farms Pvt Ltd",
+      "url": "https://sites.google.com/view/mul-biotech-farms/home",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "CIN",
+        "value": "U01111WB2026PTC292686"
+      },
+      "parentOrganization": {
+        "@id": "https://sites.google.com/view/sar-ventures/home#sarventures"
+      },
+      "founder": {
+        "@id": "https://sites.google.com/view/soumodip-atanu-roy/home#soumodiproy"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/mul-biotech-farms",
+        "https://youtube.com/@mulbiotechfarmsofficial",
+        "https://www.instagram.com/mulbiotechnology"
+      ]
+    },
+
+    {
+      "@type": "NGO",
+      "@id": "https://sites.google.com/view/sequestra-bionix-foundation/home#sequestrabionix",
+      "name": "SequestraBionix Foundation",
+      "url": "https://sites.google.com/view/sequestra-bionix-foundation/home",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "CIN",
+        "value": "U88100WB2025NPL280280"
+      },
+      "parentOrganization": {
+        "@id": "https://sites.google.com/view/sar-ventures/home#sarventures"
+      },
+      "founder": {
+        "@id": "https://sites.google.com/view/soumodip-atanu-roy/home#soumodiproy"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/company/sequestrabionix-foundation",
+        "https://youtube.com/@sequestrabionixfoundation"
+      ]
+    }
+
+  ]
+}
