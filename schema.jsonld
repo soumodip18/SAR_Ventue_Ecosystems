@@ -1,0 +1,306 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://github.com/soumodip18#soumodip-atanu-roy",
+      "name": "Soumodip Atanu Roy",
+      "jobTitle": "Founder",
+      "description": "Founder of SAR Venture Ecosystems, Mul Biotech Farms Pvt Ltd and SequestraBionix Foundation working across climate-tech, agroforestry, sustainability intelligence, carbon MRV and digital agriculture systems.",
+      "affiliation": [
+        {
+          "@type": "Organization",
+          "name": "SAR Venture Ecosystems",
+          "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+        },
+        {
+          "@type": "Corporation",
+          "name": "Mul Biotech Farms Pvt Ltd",
+          "@id": "https://mulbiotech.com#mul-biotech-farms"
+        },
+        {
+          "@type": "Organization",
+          "name": "SequestraBionix Foundation",
+          "@id": "https://sequestrabionix.org#sequestrabionix-foundation"
+        }
+      ],
+      "sameAs": [
+        "https://github.com/soumodip18",
+        "https://www.linkedin.com/in/soumodiproy/"
+      ],
+      "knowsAbout": [
+        "Climate Technology",
+        "Carbon MRV",
+        "Digital Agriculture",
+        "Agroforestry",
+        "Sustainability Infrastructure",
+        "ESG Intelligence",
+        "Climate Resilience",
+        "Regenerative Agriculture",
+        "Digital MRV Systems",
+        "GIS Intelligence"
+      ],
+      "url": "https://github.com/soumodip18"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems",
+      "name": "SAR Venture Ecosystems",
+      "alternateName": [
+        "SAR Ventures",
+        "SAR Ecosystem"
+      ],
+      "url": "https://github.com/soumodip18/SAR_Ventue_Ecosystems",
+      "description": "SAR Venture Ecosystems is a climate-tech and sustainability ecosystem narrative founded by Soumodip Atanu Roy integrating digital agriculture, carbon MRV, agroforestry intelligence, climate resilience systems and sustainability infrastructure initiatives.",
+      "founder": {
+        "@id": "https://github.com/soumodip18#soumodip-atanu-roy"
+      },
+      "parentOrganization": null,
+      "subOrganization": [
+        {
+          "@id": "https://mulbiotech.com#mul-biotech-farms"
+        },
+        {
+          "@id": "https://sequestrabionix.org#sequestrabionix-foundation"
+        }
+      ],
+      "brand": [
+        {
+          "@type": "Brand",
+          "name": "DMRV Dashboard",
+          "description": "Digital MRV platform for carbon accounting and climate intelligence"
+        },
+        {
+          "@type": "Brand",
+          "name": "Agroforestry Intelligence Systems",
+          "description": "GIS-based agroforestry planning and optimization platform"
+        },
+        {
+          "@type": "Brand",
+          "name": "Climate Resilience Infrastructure",
+          "description": "Integrated systems for climate adaptation in rural communities"
+        }
+      ],
+      "sameAs": [
+        "https://github.com/soumodip18",
+        "https://www.linkedin.com/in/soumodiproy/"
+      ],
+      "keywords": [
+        "Climate Tech",
+        "Climate Tech India",
+        "Carbon MRV",
+        "dMRV Dashboard",
+        "Digital MRV",
+        "Agroforestry",
+        "Agroforestry Platform",
+        "Digital Agriculture",
+        "Digital Agriculture Platform",
+        "Climate Resilience",
+        "Climate Adaptation",
+        "Sustainability Infrastructure",
+        "Sustainability Intelligence",
+        "ESG Intelligence",
+        "ESG Data Infrastructure",
+        "Nature Based Solutions",
+        "Regenerative Agriculture",
+        "Regenerative Agriculture India",
+        "AI for Climate Resilience",
+        "Agroforestry Carbon Sequestration",
+        "Rural Sustainability Innovation",
+        "Bioeconomy Infrastructure"
+      ],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://github.com/soumodip18/SAR_Ventue_Ecosystems/raw/main/assets/sar-ecosystem-logo.png"
+      },
+      "mainEntity": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+      }
+    },
+    {
+      "@type": "Corporation",
+      "@id": "https://mulbiotech.com#mul-biotech-farms",
+      "name": "Mul Biotech Farms Pvt Ltd",
+      "alternateName": [
+        "Mul Biotech Farms",
+        "Mul Biotech"
+      ],
+      "url": "https://mulbiotech.com",
+      "description": "Flagship climate-tech and digital agriculture company operating across agroforestry intelligence, sustainability systems, carbon MRV, rural resilience and climate innovation infrastructure.",
+      "foundingDate": "2023",
+      "founder": {
+        "@id": "https://github.com/soumodip18#soumodip-atanu-roy"
+      },
+      "parentOrganization": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+      },
+      "brand": [
+        {
+          "@type": "Brand",
+          "name": "DMRV Dashboard"
+        },
+        {
+          "@type": "Brand",
+          "name": "Agroforestry Intelligence Systems"
+        },
+        {
+          "@type": "Brand",
+          "name": "Climate Resilience Platform"
+        }
+      ],
+      "knowsAbout": [
+        "Carbon Sequestration",
+        "Agroforestry Implementation",
+        "Digital Agriculture",
+        "MRV Systems",
+        "Climate Adaptation",
+        "GIS Intelligence",
+        "Sustainability Data Infrastructure",
+        "Remote Sensing",
+        "Farmer Networks",
+        "Bioeconomy Value Chains"
+      ],
+      "sameAs": [
+        "https://github.com/soumodip18/SAR_Ventue_Ecosystems"
+      ],
+      "keywords": [
+        "Agroforestry",
+        "Carbon MRV",
+        "Digital Agriculture",
+        "Climate Tech",
+        "Sustainability"
+      ]
+    },
+    {
+      "@type": "NGO",
+      "@id": "https://sequestrabionix.org#sequestrabionix-foundation",
+      "name": "SequestraBionix Foundation",
+      "alternateName": "SequestraBionix",
+      "url": "https://sequestrabionix.org",
+      "description": "Climate resilience and sustainability-focused foundation supporting environmental awareness, regenerative systems, carbon intelligence and ecosystem restoration initiatives.",
+      "founder": {
+        "@id": "https://github.com/soumodip18#soumodip-atanu-roy"
+      },
+      "parentOrganization": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+      },
+      "funder": {
+        "@id": "https://mulbiotech.com#mul-biotech-farms"
+      },
+      "sponsor": {
+        "@id": "https://mulbiotech.com#mul-biotech-farms"
+      },
+      "memberOf": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+      },
+      "knowsAbout": [
+        "Carbon Sequestration Research",
+        "Climate Adaptation",
+        "Regenerative Systems",
+        "Sustainability Science",
+        "Ecosystem Restoration"
+      ],
+      "keywords": [
+        "Carbon Sequestration",
+        "Climate Research",
+        "Sustainability",
+        "Foundation"
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://dmrv.dashboard#dmrv-system",
+      "name": "DMRV Dashboard",
+      "alternateName": "Digital MRV Platform",
+      "url": "https://dmrv.dashboard",
+      "description": "Digital MRV and sustainability intelligence platform for agroforestry, carbon accounting, GIS analytics and climate resilience systems with real-time monitoring and verification capabilities.",
+      "applicationCategory": "BusinessApplication",
+      "provider": {
+        "@id": "https://mulbiotech.com#mul-biotech-farms"
+      },
+      "parentOrganization": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+      },
+      "featureList": [
+        "Real-time Carbon MRV Tracking",
+        "GIS-based Land Analysis",
+        "Agroforestry Intelligence",
+        "Climate Data Integration",
+        "ESG Reporting Dashboard",
+        "Remote Sensing Analytics",
+        "Farmer Mobile Interface",
+        "Third-party Verification Workflow"
+      ],
+      "keywords": [
+        "dMRV",
+        "Carbon MRV",
+        "GIS",
+        "Climate Data",
+        "ESG",
+        "Remote Sensing",
+        "Agroforestry Analytics",
+        "Digital Agriculture",
+        "Sustainability Intelligence"
+      ],
+      "operatingSystem": "Cloud-based",
+      "inLanguage": [
+        "en",
+        "hi"
+      ]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems/tree/main#agroforestry-intelligence",
+      "name": "Agroforestry Intelligence Systems",
+      "description": "GIS-based spatial planning and optimization systems for agroforestry implementation with biodiversity mapping, yield prediction, and carbon sequestration modeling.",
+      "provider": {
+        "@id": "https://mulbiotech.com#mul-biotech-farms"
+      },
+      "parentOrganization": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+      },
+      "keywords": [
+        "Agroforestry",
+        "GIS",
+        "Spatial Planning",
+        "Carbon Sequestration",
+        "Biodiversity",
+        "Satellite Data",
+        "Climate Intelligence"
+      ]
+    },
+    {
+      "@type": "Project",
+      "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems/tree/main#climate-resilience",
+      "name": "Climate Resilience Infrastructure",
+      "description": "Integrated systems for climate adaptation in rural communities including early warning systems, crop planning optimization, water management and livelihood diversification.",
+      "provider": {
+        "@id": "https://mulbiotech.com#mul-biotech-farms"
+      },
+      "parentOrganization": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+      },
+      "keywords": [
+        "Climate Adaptation",
+        "Climate Resilience",
+        "Rural Development",
+        "Water Management",
+        "Crop Planning",
+        "Livelihood Diversification"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems/blob/main/ORGANIZATION_STRUCTURE.md",
+      "name": "SAR Venture Ecosystems Organization Structure",
+      "description": "Canonical entity reconciliation and organizational hierarchy documentation for SAR Venture Ecosystems umbrella ecosystem.",
+      "about": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems#sar-venture-ecosystems"
+      },
+      "url": "https://github.com/soumodip18/SAR_Ventue_Ecosystems/blob/main/ORGANIZATION_STRUCTURE.md",
+      "isPartOf": {
+        "@id": "https://github.com/soumodip18/SAR_Ventue_Ecosystems"
+      }
+    }
+  ]
+}
